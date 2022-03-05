@@ -1,1 +1,1 @@
-# course-clock
+# Course Clock
